@@ -13,6 +13,7 @@ public class EducationPlatformApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EducationPlatformApplication.class, args);
+	// Tesy
     }
 
 }
